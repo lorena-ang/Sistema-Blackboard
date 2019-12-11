@@ -17,7 +17,7 @@ Created with three main users in mind that can access with their specific user a
     - Can view files uploaded by their teachers
     - Can answer quizzes
     - Can view their grades
-* Main administrator username: L01234567 and password: contra1
+Main administrator username: L01234567 and password: contra1
 
 
 Programa de C++ emulando un sistema de aprendizaje que permite a diferentes usuarios realizar tareas para facilitar la comunicación dentro de un ambiente escolar. Creado usando únicamente classes, sin interfaz gráfica, solo texto en la consola.
@@ -37,4 +37,4 @@ Estudiantes:
   - Pueden visualizar archivos subidos por maestros
   - Pueden contestar exámenes en línea
   - Pueden ver sus calificaciones
-* Administrador principal usuario: L01234567 y contraseña: contra1
+Administrador principal usuario: L01234567 y contraseña: contra1
