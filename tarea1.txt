@@ -1,0 +1,7 @@
+A01114487
+Clase: Fundamentos de ingenieria de software
+
+Tipos de diagramas:
+UML
+Clases
+Secuencia

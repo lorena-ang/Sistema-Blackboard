@@ -1,0 +1,6 @@
+A01039980 contra4 ITC 3 Lorena Ang Alcorta 21 F
+A01574056 contra5 LRI 4 Alejandro García López 22 M
+A01438429 contra6 INT 7 Mariano Tellez Martínez 24 M
+A00821946 contra7 ITC 4 Carlos Herrera Cortina 21 M
+A01114487 contra8 ITC 4 Sofía Vega Zambada 20 F
+A00676533 contra9 IMT 5 Andrea Rojas Hernández 22 F
